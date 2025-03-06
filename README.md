@@ -29,7 +29,7 @@ Enthusiastic and passionate about technology, I am a Computer Science student at
 ## 📫 How to Reach Me
 - **Email**: [tkhale1201@gmail.com](mailto:tkhale1201@gmail.com)  
 - **Phone**: 9131224052  
-- **LinkedIn**: [Tanay Khale on LinkedIn](https://linkedin.com/in/tanay-khale12)
+- **LinkedIn**:[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanay-khale12)
 
 ---
 
