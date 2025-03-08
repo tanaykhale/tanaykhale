@@ -6,21 +6,21 @@ Enthusiastic and passionate about technology, I am a Computer Science student at
 ---
 
 ## 🔭 Currently Working On
-- Developing web applications using **React.js** and **Material-UI**.
-- Exploring **Node.js** for building efficient back-end services.
+- Developing web applications using React.js and Material-UI.
+- Exploring Node.js for building efficient back-end services.
 
 ---
 
 ## 🌱 Learning and Improving
-- Mastering **React.js** and **TypeScript**.
-- Gaining proficiency in **Node.js**, **Express.js**, and **RESTful APIs**.
-- Exploring **AWS** for cloud solutions and improving my DevOps knowledge.
+- Mastering React.js and TypeScript.
+- Gaining proficiency in Node.js, Express.js, and RESTful APIs.
+- Exploring AWS for cloud solutions and improving my DevOps knowledge.
 
 ---
 
 ## Skills
 - **Frontend**: React.js, Material-UI, Bootstrap, HTML5, CSS3, JavaScript, TypeScript.  
-- **Backend**: Basic knowledge of **Node.js**, **Express.js**, and **RESTful APIs**.  
+- **Backend**: Basic knowledge of Node.js, Express.js, and RESTful APIs.  
 - **Version Control**: Git, GitHub.  
 - **Tools & Frameworks**: Vite, Webpack, React Router, Styled-Components.
 
