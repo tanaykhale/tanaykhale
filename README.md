@@ -38,6 +38,6 @@ My focus is on React.js and modern JavaScript frameworks, and I am always lookin
 <p>
     <strong>LinkedIn:</strong>  
     <a href="https://linkedin.com/in/tanay-khale12">
-        <img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
