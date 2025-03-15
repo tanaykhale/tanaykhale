@@ -18,7 +18,7 @@
 </div>
 
 <!-- Heading -->
-<h1 style="text-align: center;">👋 Hi, I'm Tanay Khale</h1>
+<h1 style="text-align: center;">👋 Hi,I'm Tanay Khale</h1>
 
 <!-- About Me -->
 <h3>About Me</h3>
