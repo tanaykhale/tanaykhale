@@ -43,9 +43,8 @@ My focus is on React.js and modern JavaScript frameworks, and I am always lookin
 <!-- Languages and Tools -->
 <h3>🛠 Languages and Tools</h3>
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,vite,nodejs,aws,bootstrap,c,cpp,java,mongodb,mysql,spring,figma,firebase,git,github" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,vite,nodejs,aws,bootstrap,c,cpp,java,mongodb,mysql,spring,figma,firebase,git,github" />
+   
 </p>
 
 <!-- Contact Info -->
