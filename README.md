@@ -21,7 +21,7 @@
 <h1 style="text-align: center;">👋 Hi, I'm  Tanay Khale</h1>
 
 <!-- About Me -->
-<h3>About  Me</h3>
+<h3>About Me</h3>
 <p>Enthusiastic and passionate about technology, I enjoy building web applications and constantly strive to improve my skills in both front-end and back-end development.  
 My focus is on React.js and modern JavaScript frameworks, and I am always looking for ways to implement new technologies into my projects.</p>
 
