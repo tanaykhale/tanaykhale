@@ -35,7 +35,7 @@ My focus is on React.js and modern JavaScript frameworks, and I am always lookin
 <!-- Learning and Improvement -->
 <h3>🌱 Learning and Improving</h3>
 <ul>
-    <li>Mastering React.js and TypeScript.</li>
+    <li>Mastering React.js and TypeScript .</li>
     <li>Gaining proficiency in Node.js, Express.js, and RESTful APIs.</li>
     <li>Exploring AWS for cloud solutions and improving my DevOps knowledge.</li>
 </ul>
