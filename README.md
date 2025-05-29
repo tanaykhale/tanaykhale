@@ -56,7 +56,7 @@ My focus is on React.js and modern JavaScript frameworks, and I am always lookin
     <strong>Phone:</strong> 9131224052
 </p>
 <p>
-    <strong>LinkedIn: </strong>  
+    <strong>LinkedIn:  </strong>  
     <a href="https://linkedin.com/in/tanay-khale12">
         <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
     </a>
